@@ -9,3 +9,5 @@ Download steps:
 4. open the launcher.exe file and select the server you want and hit play
 
 5. if you have any questions, i will try to respond as quickly as possible. because i dont use github that much.
+
+6. Download link: https://mega.nz/file/HcxyiLAa#pz5M2FOJtbDPOvn3-DhvSVIUtafQ04715DZzGxmth14
